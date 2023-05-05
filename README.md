@@ -9,8 +9,8 @@
 
 # *Project Demo image*
 
-<img src="https://firebasestorage.googleapis.com/v0/b/testing-40cef.appspot.com/o/restaurant%2Fviber_image_2022-10-18_13-52-40-736.jpg?alt=media&token=e1ac4ebb-d241-4947-9a99-6545ddab84f7" width="400" height="auto"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/testing-40cef.appspot.com/o/restaurant%2Fviber_image_2022-10-18_13-52-40-655.jpg?alt=media&token=b15f9cc8-c5a4-4fe6-a498-ff6f0744fe63" width="400" height="auto"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-lab-cd9ee.appspot.com/o/sample_project%2FScreenshot_1683290155.png?alt=media&token=c60c5237-18fc-4fc0-a0d6-4cb574c7bdca" width="400" height="auto"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-lab-cd9ee.appspot.com/o/sample_project%2FScreenshot_1683290172.png?alt=media&token=c3e2fb16-d9cc-46c8-8053-6a34d2da337d" width="400" height="auto"/>
 
 # *Demo Video*
 
